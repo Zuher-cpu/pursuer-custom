@@ -1115,11 +1115,8 @@ Accessories = {
 { MeshId = "105141400603933", Name = "Left Leg", Offset = CFrame.Angles(0, 0, Rad(90)), TextureId = "71060417496309" },
 { MeshId = "90736849096372", Name = "Right Leg", Offset = CFrame.Angles(0, 0,  Rad(90)), TextureId = "79186624401216" },
 -- request
-{ MeshId = "136511317486646", Names = { "Left Leg", }, Offset = CFrame.Angles(0, 1.57, 0), TextureId = "102667215460588" },
-{ MeshId = "71185284488777", Names = { "Right Leg" }, Offset = CFrame.Angles(0, -1.57, 0), TextureId = "102667215460588" },
-{ MeshId = "130995732274650", TextureId = "129920913262026", Name = "Reanimate_Chainsaw", Offset = CFrame.Angles(2.56, 1.57, 0)},--84451219120140
-{ MeshId = "113499795734672", TextureId = "108797881095939", Name = "Reanimate_Machete", Offset = CFrame.Angles(2.56, 1.57, 0)},--84451219120140
-{ MeshId = "97796116855297", TextureId = "94656457576657", Name = "Reanimate_Dummy", Offset = CFrame.new(0, 0.25, 0) * CFrame.Angles(Rad(0), Rad(180), Rad(0))},
+{ MeshId = "14768666349", Name = "Torso", Offset = CFrame.Angles(0, 0, 0), TextureId = "14768664565" },
+{ MeshId = "14768684979", Names = { "Left Arm", "Right Arm"}, Offset = CFrame.Angles(0, 0, 1.57), TextureId = "14768683674" },
 -- Align Set 1
 { MeshId = "135808007671052", TextureId = "129165992031838", Name = "Reanimate_Chainsaw", Offset = CFrame.new(-0.25, 0, 0.35) * CFrame.Angles(Rad(90), Rad(180), Rad(125)) }, 
 { MeshId = "125501940751001", TextureId = "129165992031838", Name = "Reanimate_Machete", Offset = CFrame.new(-0.05, -0.135, 0) * CFrame.Angles(Rad(70), 0, Rad(0))},
